@@ -1,0 +1,16 @@
+PODS:
+  - RoutableAssist (0.1.0)
+
+DEPENDENCIES:
+  - RoutableAssist (from `../`)
+
+EXTERNAL SOURCES:
+  RoutableAssist:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RoutableAssist: 8f81dd2a209038358c5955d230ca761ad89ab0fd
+
+PODFILE CHECKSUM: fd75a767ad5fba09f86d6050513727f4ff60377b
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RoutableAssist_Example' do
+  pod 'RoutableAssist', :path => '../'
+
+  target 'RoutableAssist_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

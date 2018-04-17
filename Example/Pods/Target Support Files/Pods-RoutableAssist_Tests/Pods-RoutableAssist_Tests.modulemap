@@ -1,0 +1,6 @@
+framework module Pods_RoutableAssist_Tests {
+  umbrella header "Pods-RoutableAssist_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
