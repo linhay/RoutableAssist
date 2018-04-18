@@ -8,6 +8,6 @@
 #import <Foundation/Foundation.h>
 #import "MethodSignature.h"
 
-@interface Invocation : NSObject
+@interface Invocation : NSInvocation
 + (NSInvocation *)invocationWithMethodSignature:(NSMethodSignature *)sig;
 @end

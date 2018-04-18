@@ -7,7 +7,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface MethodSignature : NSObject
+@interface MethodSignature : NSMethodSignature
 
 + (nullable NSMethodSignature *)signatureWithObjCTypes:(const char *)types;
 
