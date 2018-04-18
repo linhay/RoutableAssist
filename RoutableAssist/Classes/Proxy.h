@@ -6,9 +6,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "MethodSignature.h"
 @interface Proxy : NSObject
-
-+ (MethodSignature *)methodSignature:(NSObject *)object sel:(SEL)sel;
-
++(NSMethodSignature *)methodSignature:(NSObject *)object sel:(SEL)sel;
 @end

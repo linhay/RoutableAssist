@@ -9,18 +9,6 @@
 
 @interface MethodSignature : NSObject
 
-@property(nonatomic,strong) NSMethodSignature* methodSignature;
-
-+ (nullable MethodSignature *)signatureWithObjCTypes:(const char *)types;
-
-@property (readonly) NSUInteger numberOfArguments;
-- (const char *)getArgumentTypeAtIndex:(NSUInteger)idx NS_RETURNS_INNER_POINTER;
-
-@property (readonly) NSUInteger frameLength;
-
-- (BOOL)isOneway;
-
-@property (readonly) const char *methodReturnType NS_RETURNS_INNER_POINTER;
-@property (readonly) NSUInteger methodReturnLength;
++ (nullable NSMethodSignature *)signatureWithObjCTypes:(const char *)types;
 
 @end

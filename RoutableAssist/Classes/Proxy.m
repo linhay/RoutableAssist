@@ -10,10 +10,8 @@
 
 @implementation Proxy
 
-+(MethodSignature *)methodSignature:(NSObject *)object sel:(SEL)sel {
-  MethodSignature * sig = [[MethodSignature alloc] init];
-  sig.methodSignature = [object methodSignatureForSelector:sel];
-  return sig;
++(NSMethodSignature *)methodSignature:(NSObject *)object sel:(SEL)sel {
+  return [object methodSignatureForSelector:sel];
 }
 
 @end
