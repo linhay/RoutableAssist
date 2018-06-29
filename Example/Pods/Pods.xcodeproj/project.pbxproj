@@ -43,17 +43,17 @@
 
 /* Begin PBXFileReference section */
 		035DC0EB8509A279AB9275E368B503B6 /* Proxy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Proxy.h; path = RoutableAssist/Classes/Proxy.h; sourceTree = "<group>"; };
-		05978A253D68D34B4F081C322D36B025 /* RoutableAssist.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RoutableAssist.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		05978A253D68D34B4F081C322D36B025 /* RoutableAssist.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RoutableAssist.framework; path = RoutableAssist.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2754F14BD91E1C47AA68D4EF090EC74B /* Invocation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Invocation.m; path = RoutableAssist/Classes/Invocation.m; sourceTree = "<group>"; };
-		2C2822118015268D589B418DB1877026 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2C2822118015268D589B418DB1877026 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		2D99214A01AC0BD5DC2377D44AF25F57 /* Pods-RoutableAssist_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RoutableAssist_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		2DDBB9388D7104F03C1AA92E8F84D36E /* Pods-RoutableAssist_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RoutableAssist_Tests-umbrella.h"; sourceTree = "<group>"; };
 		34480DDE8B1E16988CC434527CEA57D2 /* Pods-RoutableAssist_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RoutableAssist_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		44B25E6ACCF5AF1363D725EF0E258186 /* Pods_RoutableAssist_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RoutableAssist_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		44B25E6ACCF5AF1363D725EF0E258186 /* Pods_RoutableAssist_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RoutableAssist_Example.framework; path = "Pods-RoutableAssist_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BD2B0F0F17D81F6EB3D7447A469030E /* RoutableAssist.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RoutableAssist.modulemap; sourceTree = "<group>"; };
 		4E1B3710AE4920A18DE43FE9FDD9912A /* Pods-RoutableAssist_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RoutableAssist_Example-dummy.m"; sourceTree = "<group>"; };
 		563A34942FE0531B46CF73D10712CC4A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5BEC7A67C45AC9E9D782627487F4AC2F /* Pods_RoutableAssist_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RoutableAssist_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BEC7A67C45AC9E9D782627487F4AC2F /* Pods_RoutableAssist_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_RoutableAssist_Tests.framework; path = "Pods-RoutableAssist_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C1B236AAFC495C40E632EEEF0CCA0B4 /* Pods-RoutableAssist_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RoutableAssist_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		634670016B0FDED38627B5D86BF066B7 /* Pods-RoutableAssist_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RoutableAssist_Example.modulemap"; sourceTree = "<group>"; };
 		6571CE1E650B1C945E093FA4EE8A8D61 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -64,9 +64,9 @@
 		8327796C1E62F4AE0B67F96F7D980802 /* Pods-RoutableAssist_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RoutableAssist_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		8A4CD67474C6FAFFC367707CEDBAF33B /* RoutableAssist-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RoutableAssist-dummy.m"; sourceTree = "<group>"; };
 		8FE852DE9407044C5A73A6D414D91F3D /* Invocation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Invocation.h; path = RoutableAssist/Classes/Invocation.h; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		989D987F262E134F83BC684B930B962A /* Pods-RoutableAssist_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RoutableAssist_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9F687D3B2D44F29E596C11F8EDFB07DD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		9F687D3B2D44F29E596C11F8EDFB07DD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		A1BA323645810D04D61D1F35A8436A33 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A459C5CB95EB374EC307CEC200FBF729 /* Pods-RoutableAssist_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RoutableAssist_Tests-dummy.m"; sourceTree = "<group>"; };
 		AC3497D5A17F1C5A6D0BF77BDD52C382 /* Pods-RoutableAssist_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RoutableAssist_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -81,7 +81,7 @@
 		E8DDADD758ADC3BADA489B0C890B384F /* Pods-RoutableAssist_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RoutableAssist_Example-umbrella.h"; sourceTree = "<group>"; };
 		F3E4B2B43D2C6BD880418853FB403ACB /* RoutableAssist-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RoutableAssist-umbrella.h"; sourceTree = "<group>"; };
 		FB450844E1CCEC9743F3AB52CDFEEA98 /* Pods-RoutableAssist_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RoutableAssist_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FCD46416EBE6A7E9852AF07D1CA4788E /* RoutableAssist.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = RoutableAssist.podspec; sourceTree = "<group>"; };
+		FCD46416EBE6A7E9852AF07D1CA4788E /* RoutableAssist.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = RoutableAssist.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

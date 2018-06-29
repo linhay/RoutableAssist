@@ -1,5 +1,5 @@
 PODS:
-  - RoutableAssist (0.1.0)
+  - RoutableAssist (0.2.2)
 
 DEPENDENCIES:
   - RoutableAssist (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RoutableAssist: 8f81dd2a209038358c5955d230ca761ad89ab0fd
+  RoutableAssist: f0147a5215cbaa8123ab616531f6b87872d1b270
 
 PODFILE CHECKSUM: fd75a767ad5fba09f86d6050513727f4ff60377b
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3

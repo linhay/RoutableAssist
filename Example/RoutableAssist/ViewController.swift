@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  RoutableAssist
 //
-//  Created by 158179948@qq.com on 04/17/2018.
-//  Copyright (c) 2018 158179948@qq.com. All rights reserved.
+//  Created by is.linhay@outlook.com on 04/17/2018.
+//  Copyright (c) 2018 is.linhay@outlook.com. All rights reserved.
 //
 
 import UIKit
